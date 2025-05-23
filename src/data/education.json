@@ -1,0 +1,14 @@
+[
+  {
+    "degree": "M.S. in Business Analytics",
+    "school": "Golden Gate University",
+    "duration": "2022 – 2024",
+    "details": "During my Master’s in Business Analytics, I developed a strong blend of business acumen and technical expertise, focusing on leveraging data to drive strategic decision-making. My coursework covered core computer science subjects such as Object-Oriented Programming, Data Structures and Algorithms, Operating Systems, and Computer Networks, which strengthened my problem-solving and software development skills. I also gained hands-on experience with Machine Learning, Data Mining, Information Retrieval, and Image Processing, enabling me to extract insights from complex datasets and build predictive models. This interdisciplinary training allowed me to bridge the gap between technical systems and business needs, preparing me to design and implement data-driven solutions in real-world environments."
+  },
+  {
+    "degree": "B.Tech in Computer Science",
+    "school": "Jawaharlal Technological University",
+    "duration": "2014 – 2018",
+    "details": "During my Bachelor of Technology in Computer Science, I built a strong foundation in analytical thinking, programming, and applied machine learning. My coursework included Advanced Statistical Analytics, Managing Data Structures, and Prescriptive Analytics, equipping me with the skills to manage, analyze, and optimize large-scale datasets. I also developed expertise in Machine Learning and Natural Language Processing, enabling me to work with unstructured data and build intelligent systems. This academic experience laid the groundwork for my transition into advanced data science and AI roles, combining theoretical depth with practical problem-solving capabilities."
+  }
+]

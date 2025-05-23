@@ -1,0 +1,40 @@
+[
+    {
+      "title": "Data Analyst",
+      "company": "Slesha Inc",
+      "duration": "October 2024 – Present",
+      "description": "Analyzed company data to identify patterns and reported key findings to management for informed decision-making. Documented data irregularities and implemented effective solutions to maintain data integrity. Enhanced data quality through missing value imputation and established data governance mechanisms to ensure long-term data reliability."
+    },
+    {
+      "title": "Data Analyst Intern",
+      "company": "Equal Access Careers",
+      "duration": "May 2024 – September 2024",
+      "description": "Led the development and deployment of an AI-powered diagnostic tool by generating disease and symptom embeddings using Azure OpenAI, improving accuracy and efficiency. Automated daily embedding workflows with batch processing and MongoDB, achieving a 20% performance boost. Managed vector data using SQL, NoSQL, and FaissDB, and oversaw API deployment on Azure Cloud for seamless integration across web and mobile platforms. Tech stack included FastAPI, RAG, Docker, MongoDB, FaissDB, and ReactJS."
+    },
+      {
+      "title": "Data Scientist",
+      "company": "AXA Business Services",
+      "duration": "July 2021 – May 2023",
+      "description": "Led automation initiatives that cut data entry costs by 70% and collaborated globally to build machine learning models for pricing and fraud detection, driving operational efficiency. Designed and deployed AI-driven predictive maintenance solutions, reducing costs by 20% and improving system reliability. Managed scalable AI/ML model deployments on AWS using Lambda and EC2. Tech stack included Scikit-learn, TensorFlow, LightGBM, Flask, and Tableau."
+    },
+      {
+      "title": "Data Scientist",
+      "company": "Sirpi Products and Services",
+      "duration": "Dec 2020 – July 2021",
+      "description": "Developed high-accuracy machine learning models for wind speed prediction and sales forecasting, significantly enhancing decision-making in energy and retail domains. Built interactive R Shiny dashboards that improved renewable energy project planning by 20%, and engineered automated data pipelines for real-time analytics. Leveraged SQL, BigQuery, and advanced statistical techniques to clean, process, and analyze large datasets, supporting predictive modeling of customer behavior and sales trends. Tech stack included Python, R, Shiny, AWS, NLP, PostgreSQL, and BigQuery."
+    },
+      {
+      "title": "Data Scientist",
+      "company": "Kiabi",
+      "duration": "Nov 2019 – Dec 2020",
+      "description": "Developed customer segmentation models and a recommendation engine that boosted marketing efficiency by 25% and increased sales by 15%. Conducted exploratory data analysis on purchase data and built interactive visualizations in ReactJS and Tableau to support strategic decision-making. Collaborated with backend teams to integrate APIs and streamline data flow across the platform. Utilized SQL, PostgreSQL, and MongoDB for data management, and deployed machine learning solutions using Python, AWS, TensorFlow, and S3."
+    },
+    {
+      "title": "Data Analyst",
+      "company": "Exceloid Soft Systems",
+      "duration": "July 2018 – Oct 2019",
+      "description": "Designed and implemented dynamic sales and finance dashboards in Tableau, leading to a 20% boost in sales performance and optimized organizational spending for Al Accad Group. Conducted customer segmentation analysis that improved engagement and retention by 15%. Leveraged Python, Scikit-learn, MongoDB, and PostgreSQL to analyze data and deliver actionable business insights."
+    }
+
+  ]
+  
