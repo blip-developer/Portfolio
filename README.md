@@ -34,7 +34,7 @@ A clean, professional, and responsive portfolio built using **React**, **Tailwin
 
 ### 1. Clone the Repo
 
-git clone https://github.com/uttam-1996/portfolio.git
+git clone https://github.com/blip-developer/Portfolio.git
 
 cd portfolio
 
